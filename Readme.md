@@ -4,14 +4,14 @@
 
 
 ## Tabla de Contenidos:
-1. Back-End
-   1. Bases de Datos
-2. Front-End 
-   1. Diseño
+1. [Back-End](#back-end)
+   1. [Bases de Datos](#bases-de-datos)
+2. [Front-End](#front-end) 
+   1. [Diseño](#diseño)
       - Colores
-   2. Compomentes
+   2. [Compomentes](#componentes)
       - Nav
-   3. Assets
+   3. [Assets](#assets)
       - Imágenes
 
 
