@@ -7,12 +7,12 @@
 1. [Back-End](#back-end)
    1. [Bases de Datos](#bases-de-datos)
 2. [Front-End](#front-end) 
-   1. [Diseño](#diseño)
-      - Colores
+   1. [Diseño UI](#diseño-ui)
+      - [Colores](#colores)
    2. [Compomentes](#componentes)
-      - Nav
+      - [Nav](#nav)
    3. [Assets](#assets)
-      - Imágenes
+      - [Imágenes](#imágenes)
 
 
 
@@ -22,7 +22,7 @@
    ##### Patrones de diseño, Buenas practicas: 
    - https://www.youtube.com/watch?v=leNCfU5SYR8
    - https://www.youtube.com/watch?v=yuPjoC3jmPA 
-##Front-End
+## Front-End
 ### Diseño UI
 
 #### Colores
