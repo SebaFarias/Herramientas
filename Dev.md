@@ -10,8 +10,7 @@
    1. Diseño
       - Colores
    2. Compomentes
-      - Pure HTML, Css y/o JS
-      - React
+      - Nav
    3. Assets
       - Imágenes
 
