@@ -13,6 +13,7 @@
       - [Nav](#nav)
    3. [Assets](#assets)
       - [Imágenes](#imágenes)
+   4. [SEO](#seo)
 
 
 
@@ -43,4 +44,5 @@
 - Imágenes: https://unsplash.com
   - Placeholders de unsplash Unsplash: https://unsplash.it
 - Pexels: https://www.pexels.com/es-es/
-
+#### SEO
+- Entrevista con referencias para empezar: https://www.youtube.com/watch?v=dCKRXvva_Xo
