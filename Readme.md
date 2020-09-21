@@ -13,7 +13,8 @@
       - [Nav](#nav)
    3. [Assets](#assets)
       - [Imágenes](#imágenes)
-   4. [SEO](#seo)
+ 3. [Deploy](#deploy)
+ 4. [SEO](#seo)
 
 
 
@@ -44,5 +45,9 @@
 - Imágenes: https://unsplash.com
   - Placeholders de unsplash Unsplash: https://unsplash.it
 - Pexels: https://www.pexels.com/es-es/
-#### SEO
+## Deploy
+- 5 opciones gratuitas con instrucciones: 
+https://devchallenges-blogs.web.app/Top-5-free-HOSTING-site/
+
+## SEO
 - Entrevista con referencias para empezar: https://www.youtube.com/watch?v=dCKRXvva_Xo
