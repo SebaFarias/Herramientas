@@ -45,6 +45,16 @@
 - Imágenes: https://unsplash.com
   - Placeholders de unsplash Unsplash: https://unsplash.it
 - Pexels: https://www.pexels.com/es-es/
+- Ouch: https://icons8.com/
+- Undraw: https://undraw.co/illustrations
+- Many Pixels: https://www.manypixels.co/gallery/
+- Pixel True: https://www.pixeltrue.com/free-illustrations
+- Illustration XYZ: https://freeillustrations.xyz/
+- Illustrations: http://illustrations.co/
+- DrawKit: https://www.drawkit.io/
+- Humaaans: https://www.humaaans.com/
+
+
 ## Deploy
 - 5 opciones gratuitas con instrucciones: 
 https://devchallenges-blogs.web.app/Top-5-free-HOSTING-site/
