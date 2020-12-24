@@ -53,6 +53,12 @@
 - Illustrations: http://illustrations.co/
 - DrawKit: https://www.drawkit.io/
 - Humaaans: https://www.humaaans.com/
+##### Transparent PNGs
+- Pure PNG: https://purepng.com/
+- Stick PNG: https://www.stickpng.com/
+- Fav PNG: https://favpng.com/
+- Pixel Squid: https://www.pixelsquid.com/
+- PNG IMG: https://pngimg.com/
 
 
 ## Deploy
