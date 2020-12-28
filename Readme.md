@@ -40,6 +40,8 @@
 ###### REACT
 - Menu y submenus a lo Facebook: https://www.youtube.com/watch?v=IF6k0uZuypA
 #### Assets
+##### Favicons
+- Generador de Favicons, también sirve para revisar como se ve en distintos dispositivos: https://realfavicongenerator.net/
 ##### Imágenes
 - Imágenes de caras: https://uifaces.co/
 - Imágenes: https://unsplash.com
