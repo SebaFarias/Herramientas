@@ -28,6 +28,7 @@
 ### Diseño UI
 
 #### Colores
+- Search engine for color palettes: https://www.thevangogh.in/home
 - https://coolors.co/
 - https://color.adobe.com/es/create/color-wheel
         
@@ -42,7 +43,11 @@
 #### Assets
 ##### Favicons
 - Generador de Favicons, también sirve para revisar como se ve en distintos dispositivos: https://realfavicongenerator.net/
+##### Iconos
+-Customizable icons and images: https://shape.so/
+
 ##### Imágenes
+- Background SVG Patterns: https://www.magicpattern.design/
 - Imágenes de caras: https://uifaces.co/
 - Imágenes: https://unsplash.com
   - Placeholders de unsplash Unsplash: https://unsplash.it
