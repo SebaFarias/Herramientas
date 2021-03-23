@@ -25,6 +25,7 @@
    ##### Patrones de diseño, Buenas practicas: 
    - https://www.youtube.com/watch?v=leNCfU5SYR8
    - https://www.youtube.com/watch?v=yuPjoC3jmPA 
+   - [ Mongo Usage Driven Design Method](https://www.youtube.com/watch?v=3GHZd0zv170)
    - [ Embedded vs Reference ](https://www.youtube.com/watch?v=4rhKKFbbYT4)
 ## Front-End
 ### Diseño UI
