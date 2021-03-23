@@ -13,6 +13,7 @@
       - [Nav](#nav)
    3. [Assets](#assets)
       - [Imágenes](#imágenes)
+   4. [Layout](#layout)
  3. [Deploy](#deploy)
  4. [SEO](#seo)
 
@@ -45,6 +46,9 @@
 - Generador de Favicons, también sirve para revisar como se ve en distintos dispositivos: https://realfavicongenerator.net/
 ##### Iconos
 -Customizable icons and images: https://shape.so/
+##### Layout
+-[Flexbox](https://www.youtube.com/watch?v=vQAvjof1oe4)
+-[Flexbox Gap Alternative](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 
 ##### Imágenes
 - Background SVG Patterns: https://www.magicpattern.design/
