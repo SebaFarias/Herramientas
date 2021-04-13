@@ -72,7 +72,8 @@
 - Fav PNG: https://favpng.com/
 - Pixel Squid: https://www.pixelsquid.com/
 - PNG IMG: https://pngimg.com/
-
+##### Sonidos:
+ - [Sonidos Ambientales](https://sfx.freeaudiolibrary.com/es/efectos-gratuitos-ambientes)
 
 ## Deploy
 - 5 opciones gratuitas con instrucciones: 
