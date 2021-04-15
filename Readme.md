@@ -7,13 +7,14 @@
 1. [Back-End](#back-end)
    1. [Bases de Datos](#bases-de-datos)
 2. [Front-End](#front-end) 
-   1. [Diseño UI](#diseño-ui)
+   1. [CSS](#componentes) 
+   2. [Diseño UI](#diseño-ui)
       - [Colores](#colores)
-   2. [Compomentes](#componentes)
+   3. [Compomentes](#componentes)
       - [Nav](#nav)
-   3. [Assets](#assets)
+   4. [Assets](#assets)
       - [Imágenes](#imágenes)
-   4. [Layout](#layout)
+   5. [Layout](#layout)
  3. [Deploy](#deploy)
  4. [SEO](#seo)
 
@@ -28,6 +29,8 @@
    - [ Mongo Usage Driven Design Method](https://www.youtube.com/watch?v=3GHZd0zv170)
    - [ Embedded vs Reference ](https://www.youtube.com/watch?v=4rhKKFbbYT4)
 ## Front-End
+### CSS
+
 ### Diseño UI
 
 #### Colores
@@ -35,24 +38,24 @@
 - https://coolors.co/
 - https://color.adobe.com/es/create/color-wheel
         
-##### Componentes
-##### Nav
+### Componentes
+#### Nav
 ###### Sin Frameworks ni librerías
 - Responsive Nav - Solo CSS: https://www.youtube.com/watch?v=8QKOaTYvYUA
 - Animacion - Crece un circulo desde una esquina: https://www.youtube.com/watch?v=H4MkGzoACpQ
 - Animaciones: https://www.youtube.com/watch?v=Dr-dVbzZDf0
 ###### REACT
 - Menu y submenus a lo Facebook: https://www.youtube.com/watch?v=IF6k0uZuypA
-#### Assets
-##### Favicons
+### Assets
+#### Favicons
 - Generador de Favicons, también sirve para revisar como se ve en distintos dispositivos: https://realfavicongenerator.net/
-##### Iconos
+#### Iconos
 - Customizable icons and images: https://shape.so/
-##### Layout
+#### Layout
 - [Flexbox](https://www.youtube.com/watch?v=vQAvjof1oe4)
 - [Flexbox Gap Alternative](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 
-##### Imágenes
+#### Imágenes
 - Background SVG Patterns: https://www.magicpattern.design/
 - Imágenes de caras: https://uifaces.co/
 - Imágenes: https://unsplash.com
@@ -66,13 +69,13 @@
 - Illustrations: http://illustrations.co/
 - DrawKit: https://www.drawkit.io/
 - Humaaans: https://www.humaaans.com/
-##### Transparent PNGs
+#### Transparent PNGs
 - Pure PNG: https://purepng.com/
 - Stick PNG: https://www.stickpng.com/
 - Fav PNG: https://favpng.com/
 - Pixel Squid: https://www.pixelsquid.com/
 - PNG IMG: https://pngimg.com/
-##### Sonidos:
+#### Sonidos:
  - [Sonidos Ambientales](https://sfx.freeaudiolibrary.com/es/efectos-gratuitos-ambientes)
 
 ## Deploy
