@@ -7,7 +7,8 @@
 1. [Back-End](#back-end)
    1. [Bases de Datos](#bases-de-datos)
 2. [Front-End](#front-end) 
-   1. [CSS](#componentes) 
+   1. [CSS](#CSS)
+      - [Flexbox](#Flexbox)
    2. [Diseño UI](#diseño-ui)
       - [Colores](#colores)
    3. [Compomentes](#componentes)
@@ -30,6 +31,8 @@
    - [ Embedded vs Reference ](https://www.youtube.com/watch?v=4rhKKFbbYT4)
 ## Front-End
 ### CSS
+#### Flexbox
+  -[Guía de Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Diseño UI
 
