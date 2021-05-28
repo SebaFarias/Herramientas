@@ -79,6 +79,9 @@
 - Pixel Squid: https://www.pixelsquid.com/
 - PNG IMG: https://pngimg.com/
 - [SVG FreePicks](https://www.freepik.es)
+
+### SVG
+- https://svgporn.com
 #### Sonidos:
  - [Sonidos Ambientales](https://sfx.freeaudiolibrary.com/es/efectos-gratuitos-ambientes)
 
