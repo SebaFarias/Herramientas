@@ -40,6 +40,7 @@
 - Search engine for color palettes: https://www.thevangogh.in/home
 - https://coolors.co/
 - https://color.adobe.com/es/create/color-wheel
+- https://paletton.com
         
 ### Componentes
 #### Nav
